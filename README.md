@@ -1,4 +1,3 @@
-<!-- Banner or Greeting -->
 <h1 align="center">Hi there, I'm Daniel 👋</h1>
 <h3 align="center">Full Stack Developer from Brazil | Automation | AI</h3>
 
@@ -6,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=dgirotto0&color=blueviolet" alt="Profile views" />
 </p>
 
-<!-- Short Intro -->
 <p align="center">
   I'm a Full Stack Developer passionate about building end-to-end solutions 
   that combine web, mobile, automation, and AI. I love working with robust APIs, 
@@ -14,13 +12,12 @@
   real-world, value-driven products.
 </p>
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/daniel-girotto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-daniel--girotto-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-youremail%40example.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:dgirotto00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-dgirotto00%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/dgirotto0?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-dgirotto0-181717?style=flat-square&logo=github" alt="GitHub">
@@ -72,16 +69,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dgirotto0&show_icons=true&theme=radical" alt="dgirotto0's GitHub stats"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgirotto0&layout=compact&theme=radical" alt="dgirotto0's top languages"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-- [**SaaS-Oficina**](https://github.com/dgirotto0/SaaS-Oficina): A SaaS platform for automotive repair shops, built with Django REST and Next.js.  
-- [**Realtime Chat**](https://github.com/dgirotto0/realtime-chat): Real-time chat application using FastAPI, Redis, WebSockets, and Kubernetes.  
-- [**AICook**](https://github.com/dgirotto0/aicook): A Flutter app for personalized recipe suggestions, integrating Firebase and Stripe.
-
-*(Feel free to adjust or add your most relevant repositories.)*
 
 ---
 
